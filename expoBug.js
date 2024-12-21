@@ -1,0 +1,1 @@
+This error typically occurs when the Expo CLI attempts to use a version of Node.js that is not compatible with the Expo SDK version you are using. Expo often requires a specific Node.js version range.  Another possibility is if you have conflicting packages installed or if your project's package.json file has incorrect dependencies or scripts.
